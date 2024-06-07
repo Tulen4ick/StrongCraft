@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrongCraft", "StrongCraft\StrongCraft.csproj", "{6A8DC334-4E03-4832-842E-547843E12C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A8DC334-4E03-4832-842E-547843E12C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8DC334-4E03-4832-842E-547843E12C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8DC334-4E03-4832-842E-547843E12C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8DC334-4E03-4832-842E-547843E12C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4762B886-AC65-4203-A7B6-A855EB2BED24}
+	EndGlobalSection
+EndGlobal
